@@ -25,28 +25,33 @@ mkdir Face_recognition
 cd Face_recognition
 </pre>
 
+<br>
 step 2: Copy the above code and paste it in that directory.
 
+<br>
 step 3: Run <code>dataSetGenerator.py</code> to create the dataset, it ask your "your_name" and captures the image and store it in <code>image_data/"your_name"</code>.
 
 <pre>
 python dataSetGenerator.py
 </pre>
 
+<br>
 step 4: Run <code>faceTrainer.py</code> to train the model, it will create the <code>labels.pickle</code> file and <code>trainner.yml</code> [explained in code].
 
 <pre>
     python faceTrainer.py
 </pre>
 
+<br>
 step 5: Run <code>faceRecognise.py</code> to identify your face.
 
 <pre>
     python faceRecognise.py
 </pre>
 
+<br>
 <hr>
 
 <h2>Result</h2>
-<br>
+
 <img src="" alt="Loading....">
