@@ -39,14 +39,14 @@ python dataSetGenerator.py
 step 4: Run <code>faceTrainer.py</code> to train the model, it will create the <code>labels.pickle</code> file and <code>trainner.yml</code> [explained in code].
 
 <pre>
-    python faceTrainer.py
+python faceTrainer.py
 </pre>
 
 <br>
 step 5: Run <code>faceRecognise.py</code> to identify your face.
 
 <pre>
-    python faceRecognise.py
+python faceRecognise.py
 </pre>
 
 <br>
