@@ -54,7 +54,7 @@ python faceRecognise.py
 
 <h2>Result</h2>
 
-<img src="" alt="Loading....">
+<img src="screenshots/Screenshot.jpg" alt="Loading....">
 
 <hr>
 <h2>References</h2>
