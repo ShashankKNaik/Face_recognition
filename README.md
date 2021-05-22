@@ -58,6 +58,7 @@ python faceRecognise.py
 
 <hr>
 <h2>References</h2>
-https://www.mygreatlearning.com/blog/face-recognition/
-
-https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing
+<ul>
+<li>https://www.mygreatlearning.com/blog/face-recognition/</li>
+<li>https://github.com/Nabajyotighosh/Facelocking-Door-Using-Python-and-Arduino-Programing</li>
+</ul>
